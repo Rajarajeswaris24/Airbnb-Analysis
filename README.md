@@ -1,3 +1,5 @@
+Demo Video:https://drive.google.com/file/d/174qq3dJTIWTQhfYvG5-gwCfqUjVsw_Zv/view?usp=sharing
+
 Problem Statement:
 
 1.This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends. The objectives are to:
@@ -51,3 +53,14 @@ Develop dynamic and interactive visualizations that allow users to filter and dr
 Dashboard Creation: 
 
 Utilize Tableau or Power BI to create a comprehensive dashboard that presents key insights from your analysis. Combine different visualizations, such as maps, charts, and tables, to provide a holistic view of the Airbnb dataset and its patterns.
+
+Tableau Dashboard:
+
+![Dashboard 3 (1)](https://github.com/Rajarajeswaris24/Airbnb-Analysis/assets/153385139/d52f5f11-029b-46b8-86e0-afef340b8dc5)
+
+
+
+
+
+
+
